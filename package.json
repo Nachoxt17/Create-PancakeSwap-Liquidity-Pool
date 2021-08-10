@@ -1,0 +1,16 @@
+{
+  "name": "create-pancakeswap-liquidity-pool",
+  "version": "1.0.0",
+  "description": "+-Tutorial:_ https://youtu.be/g7TuczcklrY ",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {},
+  "author": "ignacioceaglio@protonmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.0.0",
+    "@truffle/hdwallet-provider": "^1.2.3"
+  }
+}
